@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Single Room",
+    "price": "₹5000/month",
+    "location": "Bangalore",
+    "description": "Good room near market.",
+    "image": "/rooms/room1.jpg",
+    "images": [
+      "/rooms/room1.jpg",
+      "/rooms/room2.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Single Room",
+    "price": "₹5000/month",
+    "location": "Bangalore",
+    "description": "Good room near market.",
+    "image": "/rooms/room2.jpg",
+    "images": [
+      "/rooms/room1.jpg",
+      "/rooms/room2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Single Room",
+    "price": "₹5000/month",
+    "location": "Bangalore",
+    "contact": "9876543210",
+    "description": "Good room near market.",
+    "image": "/rooms/room3.jpg",
+    "images": [
+      "/rooms/room1.jpg",
+      "/rooms/room2.jpg",
+      "/rooms/room4.jpg",
+      "/rooms/room3.jpg"
+    ]
+  }
+]
