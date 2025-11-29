@@ -37,5 +37,18 @@
       "/rooms/room4.jpg",
       "/rooms/room3.jpg"
     ]
+  },
+  {
+    "id": 4,
+    "title": "double Room",
+    "price": "₹5000/month",
+    "location": "Bangalore",
+    "contact": "9876543210",
+    "description": "Good room near market.",
+    "image": "/rooms/room5.jpg",
+    "images": [
+      "/rooms/room6.jpg"
+    ]
   }
+  
 ]
