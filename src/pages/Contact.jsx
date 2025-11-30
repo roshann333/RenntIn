@@ -22,7 +22,7 @@ const Contact = () => {
           
           {/* WhatsApp Button */}
           <a
-            href="https://wa.me/+919656209105"
+            href="https://wa.me/+91.9656209105"
             target="_blank"
             className="flex items-center gap-3 bg-green-500 text-white px-6 py-3 rounded-2xl shadow-lg hover:bg-green-600 transition w-full justify-center"
           >
@@ -32,7 +32,7 @@ const Contact = () => {
 
           {/* Instagram Button */}
           <a
-            href="https://instagram.com/ashmal.roshan"
+            href="https://instagram.com/pg_kochi"
             target="_blank"
             className="flex items-center gap-3 bg-pink-500 text-white px-6 py-3 rounded-2xl shadow-lg hover:bg-pink-600 transition w-full justify-center"
           >
